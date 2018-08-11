@@ -7,8 +7,8 @@ Steps to follow to properly run my code:
 
 1. Unzip the folders: data and examples
 2. Make sure you have a jupyter notebook installed on your PC.
-3. Just download the Bike_Share_Analysis_revised_3.ipnb file, keep it in the same folder as the data and examples folder, and open it up using the jupyter notebook. Voila!!
+3. Just download the Bike_Share_Analysis.ipnb file, keep it in the same folder as the data and examples folder, and open it up using the jupyter notebook. Voila!!
 
-For details on how you could go ahead to document your work, check out my file Bike_Share_Analysis_revised_3.html
+For details on how you could go ahead to document your work, check out my file Bike_Share_Analysis.html
 
 All the best.
